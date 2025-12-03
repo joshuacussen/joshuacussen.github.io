@@ -3,21 +3,17 @@ layout: home
 title: "Home"
 ---
 
-# Hi, I'm Joshua Cussen
+# Hi, I'm Joshua
 
 I teach Computer Science and occasionally make things.
 
 This site brings together my projects, writing, and teaching resources.
 
----
 
 ## 🔧 Tools & Projects
 
-- **FrayerStore** — interactive glossary platform for GCSE & A-Level Computer Science  
-- **ExamTimer** — a distraction-free exam timer for classrooms  
-- **Pygame Course** — an introductory programming course using Pygame  
+A list of tools will eventually go here.
 
----
 
 ## ✍️ Blog
 
@@ -26,4 +22,3 @@ I am working on an article at the moment.
 
 → [View the blog](/blog/)
 
----
