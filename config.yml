@@ -1,0 +1,34 @@
+title: "Joshua Cussen"
+description: "Teaching resources, tools, and occasional writing."
+url: "https://joshuacussen.github.io"
+baseurl: ""
+
+theme: minima
+
+# Blog settings
+permalink: /blog/:title/ # cleaner URLs for posts
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Directories to include/exclude
+include:
+  - assets
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+# Minima config (optional tweaks)
+minima:
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: github,  user_url: "https://github.com/joshuacussen" }
+
+# Plugins GitHub Pages allows
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
