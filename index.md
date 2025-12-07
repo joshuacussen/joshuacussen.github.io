@@ -15,7 +15,7 @@ This site brings together my projects, writing, and teaching resources.
 - [examTimer](/examTimer): A timer for use in in-class assessments
 - [FrayerStore](https://frayerstore.streamlit.app/): A dictionary of Frayer Models (currently under heavy development)
 - [Assessment reflection](https://assessment-reflection.streamlit.app/): A tool for guided assessment reflection (this needs lots of work)
-- [Lessons in Pygame](/pygame-course): A sequence of lessons using PRIMM to introduce Pygame (I am currently making this as I teach it)
+- [Lessons in Pygame](/pygame): A sequence of lessons using PRIMM to introduce Pygame (I am currently making this as I teach it)
 
 
 ## Blog
