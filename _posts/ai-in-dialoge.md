@@ -8,10 +8,10 @@ I have been using AI a lot over the last few weeks to help me develop various pr
 I've used it to fill gaps in my knowledge about new-to-me Python libraries, and I've used it to help me consider important architectural choices with systems I've been building.
 
 I started out trying to be responsible.
-I asked AI to talk me through how to solve problems: it was helpful, but progress was slow.
+I asked AI to talk me through the process of solving problems: it was helpful, but progress was slow.
 I was impatient and wanted to build solutions immediately.
 I changed tactics and asked AI to start writing huge chunks of my code for me.
-When I did this, the code tended to suck (but it worked!).
+When I did this, the code worked--but it tended to suck.
 
 Not only did the code suck, I didn't understand it so I couldn't maintain or extend it without relying on AI even more.
 As I relied on AI to grow my codebase, the quality declined as I became cocooned in a web of mixed dependencies and mired in technical debt.
@@ -50,21 +50,26 @@ Whether you know anything about computing or not, you can probably guess what th
 'AI' has been around for ages.
 It's inaccurate and foolish to pretend that 'AI' is something new and shiny, and calling things 'AI' as if this somehow makes them magical risks attributing greater power and status than deserved.
 
-There's nothing magical about 'AI': all 'AI' means at its most basic level is automated decision making.
+There's nothing magical about 'AI': all 'AI' means is automated decision making.
 We see this in video games, search algorithms, and year 7 Scratch lessons.
 
 When we talk about ChatGPT, Claude, Gemini, et al as 'AI' what we really mean is that they are **generative AI**.
-This is notably distinct from the 'AI' created across the world in KS3 and KS4 Computing lessons, and from the long-theorised 'general AI' that is as smart as real humans.
+This is notably distinct from the 'AI' created across the world in KS3 and KS4 Computing lessons, and from the Sci-Fi ideal of 'general AI' that is as smart as real humans.
 
 Generative AI (GenAI) is a subset of 'AI' that is able to generate things like text, images, and audio.
 Calling this AI is not wrong--but it is misleading.
 It's like calling a pencil an object: technically correct but nowhere close to the whole picture.
-Missing out the 'generative' in 'generative AI' risks us thinking higher of it than deserved.
+Missing out the 'generative' in 'generative AI' risks us thinking better of it than deserved.
 
 We ought to be precise with our language and name things correctly, but the ship on calling GenAI 'AI' has long since sailed.
 This leaves me shouting angrily at the clouds.
 As the world has moved on, let's move with it--but let's be absolutely clear that the category of 'AI' includes the gamut of Scratch to Sci-Fi.
 
+From here on, when I talk about 'AI', I mean GenAI.
+
+## Who is Al?
+
+### How does GenAI work?
 
 
 
