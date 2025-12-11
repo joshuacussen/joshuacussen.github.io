@@ -120,6 +120,7 @@ When you understand how it works, it becomes unavoidable that you **cannot** tru
 Because GenAI works by guessing what should come next in a sentence, it's prone to inventing things.
 These fabrications are called hallucinations and are unavoidable.
 GenAI is a useful tool for creativity but a dangerous source of knowledge.
+
 Would you trust a parrot to do your homework?
 
 
