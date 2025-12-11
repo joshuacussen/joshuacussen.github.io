@@ -56,7 +56,7 @@ There's nothing magical about 'AI': all 'AI' means is automated decision making.
 We see this in video games, search algorithms, and year 7 Scratch lessons.
 
 When we talk about ChatGPT, Claude, Gemini, et al as 'AI' what we really mean is that they are **generative AI**.
-This is notably distinct from the 'AI' created across the world in KS3 and KS4 Computing lessons, and from the Sci-Fi ideal of 'general AI' that is as smart as real humans.
+This is notably distinct from the 'AI' created across the world in KS3 Computing lessons, and from the Sci-Fi ideal of 'general AI' that is as smart as real humans.
 
 Generative AI (GenAI) is a subset of 'AI' that is able to generate things like text, images, and audio.
 Calling this AI is not wrong--but it is misleading.
