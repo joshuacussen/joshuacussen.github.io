@@ -28,7 +28,7 @@ We all fall into the trap of easy answers.
 The problem is that there are no easy answers.
 At least, there are no easy answers worth listening to.
 Learning requires effort.
-The problem with how we use AI is that it short-circuits the effort of learning, giving the illusion of understanding.
+The problem with how we often use AI is that it short-circuits the effort of learning, giving us the illusion of understanding.
 We need to change the way we use AI so that it supports our learning, rather than doing all the work for us.
 
 
@@ -39,8 +39,34 @@ I explore its limitations and environmental costs, considering existential quest
 I then explore three main ways students use AI wrong before presenting an antidote: using AI in dialogue rather than as a ghostwriter.
 
 ## You're using 'AI' wrong
+Here's an example of some 'AI' that a year 10 computing student could write:
+
+```python
+if power_level > 9000:
+    print("AAAARRRGGHHH")
+```
+Whether you know anything about computing or not, you can probably guess what this does (it prints a scream on the screen if the power level is over 9000).
+
 'AI' has been around for ages.
-Year 7s create 'AI' in their first Scratch lesson!
+It's inaccurate and foolish to pretend that 'AI' is something new and shiny, and calling things 'AI' as if this somehow makes them magical risks attributing greater power and status than deserved.
+
+There's nothing magical about 'AI': all 'AI' means at its most basic level is automated decision making.
+We see this in video games, search algorithms, and year 7 Scratch lessons.
+
+When we talk about ChatGPT, Claude, Gemini, et al as 'AI' what we really mean is that they are **generative AI**.
+This is notably distinct from the 'AI' created across the world in KS3 and KS4 Computing lessons, and from the long-theorised 'general AI' that is as smart as real humans.
+
+Generative AI (GenAI) is a subset of 'AI' that is able to generate things like text, images, and audio.
+Calling this AI is not wrong--but it is misleading.
+It's like calling a pencil an object: technically correct but nowhere close to the whole picture.
+Missing out the 'generative' in 'generative AI' risks us thinking higher of it than deserved.
+
+We ought to be precise with our language and name things correctly, but the ship on calling GenAI 'AI' has long since sailed.
+This leaves me shouting angrily at the clouds.
+As the world has moved on, let's move with it--but let's be absolutely clear that the category of 'AI' includes the gamut of Scratch to Sci-Fi.
+
+
+
 
 
 ### Maybe use this later
