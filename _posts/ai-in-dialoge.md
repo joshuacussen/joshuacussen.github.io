@@ -38,7 +38,9 @@ In this article, I explain what we mean when we say 'AI' and (roughly) how it wo
 I explore its limitations and environmental costs, considering existential questions about the meaning of work, ownership, and the messy interconnectedness of all things.
 I then explore three main ways students use AI wrong before presenting an antidote: using AI in dialogue rather than as a ghostwriter.
 
-## You're using 'AI' wrong
+## Who is Al?
+
+### You're using 'AI' wrong
 Here's an example of some 'AI' that a year 10 computing student could write:
 
 ```python
@@ -67,9 +69,58 @@ As the world has moved on, let's move with it--but let's be absolutely clear tha
 
 From here on, when I talk about 'AI', I mean GenAI.
 
-## Who is Al?
 
 ### How does GenAI work?
+One of the first things I tell all my students is this:
+
+> Computers are stupid.
+> They do exactly what you tell them.
+
+GenAI is no different.
+
+GenAI absorbs vast quantities of data and analyses it for patterns.
+It is then able to regurgitate patterns observed in its training data, predicting which 'token' (word, part of a word, etc.) should come next in the sentence/image/whatever it's creating.
+It predicts these tokens based on
+- Clever maths
+- Patterns it has seen before
+- Things it 'thinks' you want to see
+
+GenAI is essentially fancy predictive text that wants to make you happy.
+
+It is no more intelligent than the predictive text in your phone.
+
+## Four ignoble truths
+
+1. It's stupid
+1. It's biased
+1. It's censored
+1. It's obedient
+
+### It's stupid: it doesn't 'know' anything
+
+Much like the predictive text in your phone, GenAI has no knowledge of anything.
+It has no understanding, beliefs, or schema of the world.
+GenAI simulates understanding by regurgitating patterns--not facts.
+Imagine a particularly eloquent parrot and you're not far off how GenAI works.
+
+This stupidity is a core, structural limitation of how GenAI works.
+GenAI is not designed to 'know' things, it is only designed to notice and repeat patterns.
+It doesn't matter how many versions of ChatGPT get released, it will never get smarter or learn more about the world.
+It doesn't have the capacity for knowledge.
+
+For example, GenAI has no knowledge of what a 'house' is, or that 'people' might 'live' in one.
+It may have absorbed patterns in sentences that put the words 'house', 'people', and 'live' in relation to each other, but it has no understanding of what these words mean.
+
+GenAI models 'learn' that the capital of France is Paris by absorbing sentences that say the capital of France is Paris.
+When you ask GenAI what the capital of France is, it predicts the answer based on the patterns in sentences it has seen before--not by looking up the answer in a magical database.
+
+This simulated understanding is often presented extremely confidently.
+It really seems like GenAI knows its stuff!
+When you understand how it works, it becomes unavoidable that you **cannot** trust GenAI for facts.
+Because GenAI works by guessing what should come next in a sentence, it's prone to inventing things.
+These fabrications are called hallucinations and are unavoidable.
+GenAI is a useful tool for creativity but a dangerous source of knowledge.
+Would you trust a parrot to do your homework?
 
 
 
